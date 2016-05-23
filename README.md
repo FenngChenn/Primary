@@ -1,2 +1,8 @@
 # Primary
-This is a primary test
+
+### 事件的冒泡、捕获
+ *冒泡
+ > 从产生事件的element开始向上一级一级往外冒
+ *捕获
+ > 从window对象或html标签往下一级一级寻找触发事件的元素
+
